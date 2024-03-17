@@ -1,2 +1,2 @@
 # Java-numbers-pattern-series
-Console project for beginners in java
+Console project for beginners in java by Debojit
